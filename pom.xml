@@ -128,7 +128,6 @@
                             </execution>
                         </executions>
                     </plugin>
-
                     <!-- Spring Boot Actuator displays build-related information if a META-INF/build-info.properties file is present -->
                     <plugin>
                         <groupId>pl.project13.maven</groupId>
